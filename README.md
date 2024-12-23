@@ -1,7 +1,5 @@
 # 📚 Book Series Collection
 
-This repository contains a curated collection of popular book series, organized by series name and their respective authors.
-
 ## Featured Series and Authors
 
 - **The Chronicles of Narnia** - *C.S. Lewis*
