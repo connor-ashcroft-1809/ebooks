@@ -1,26 +1,99 @@
-# 📚 Book Series Collection
+# Book Series Collection
 
-## Featured Series and Authors
+This is a collection of book series from a variety of authors across different genres. Below is a list of the series, grouped by author.
 
-- **The Chronicles of Narnia** - *C.S. Lewis*
-- **Discworld** - *Terry Pratchett*
-- **Dune** - *Frank Herbert*
-- **The Expanse** - *James S.A. Corey*
-- **Harry Potter** - *J.K. Rowling*
-- **Hercule Poirot** - *Agatha Christie*
-- **His Dark Materials** - *Philip Pullman*
-- **The Hitchhiker's Guide to the Galaxy** - *Douglas Adams*
-- **The Hunger Games** - *Suzanne Collins*
-- **Lord of the Rings** - *J.R.R. Tolkien*
-- **The Maze Runner** - *James Dashner*
-- **Miss Marple** - *Agatha Christie*
-- **The Mortal Instruments Series** - *Cassandra Clare*
-- **Percy Jackson & The Olympians** - *Rick Riordan*
-- **A Song of Ice and Fire** - *George R.R. Martin*
-- **Superintendent Battle** - *Agatha Christie*
-- **Tommy & Tuppence** - *Agatha Christie*
-- **The Twilight Saga** - *Stephenie Meyer*
-- **Witcher** - *Andrzej Sapkowski*
+## C.S. Lewis
+- **The Chronicles of Narnia**
 
----
+## Terry Pratchett
+- **Discworld**
 
+## Frank Herbert
+- **Dune**
+
+## J.K. Rowling
+- **Harry Potter**
+
+## Agatha Christie
+- **Hercule Poirot**
+- **Superintendent Battle**
+- **Miss Marple**
+- **Tommy & Tuppence**
+
+## Philip Pullman
+- **His Dark Materials**
+
+## Douglas Adams
+- **The Hitchhiker's Guide to the Galaxy**
+
+## Suzanne Collins
+- **The Hunger Games**
+
+## J.R.R. Tolkien
+- **Lord of the Rings**
+
+## James Dashner
+- **The Maze Runner**
+
+## Cassandra Clare
+- **The Mortal Instruments Series**
+
+## Rick Riordan
+- **Percy Jackson & The Olympians**
+
+## George R.R. Martin
+- **A Song of Ice and Fire**
+
+## Andrzej Sapkowski
+- **Witcher**
+
+## Stephenie Meyer
+- **The Twilight Saga**
+
+## James S.A. Corey
+- **The Expanse**
+
+## Robert Jordan
+- **Wheel of Time**
+
+## Pierce Brown
+- **The Red Rising Saga**
+
+## Stephen King
+- **The Dark Tower**
+
+## Veronica Roth
+- **Divergent Trilogy**
+
+## Isaac Asimov
+- **Foundation**
+- **Galactic Empire**
+- **Robot Series**
+
+## Dan Simmons
+- **Hyperion Cantos**
+
+## Kim Stanley Robinson
+- **Mars Trilogy**
+
+## Lemony Snicket (Daniel Handler)
+- **A Series of Unfortunate Events**
+
+## Stieg Larsson
+- **Millennium**
+
+## Christopher Paolini
+- **The Inheritance Cycle**
+
+## Orson Scott Card
+- **Ender's Game**
+- **Shadow Series**
+
+## Arthur Conan Doyle
+- **Sherlock Holmes**
+
+## Andy Weir 
+- **Books**
+    - The Martian
+    - Artemis
+    - Project Hail Mary

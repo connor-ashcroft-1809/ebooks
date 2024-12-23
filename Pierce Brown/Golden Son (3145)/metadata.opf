@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3145</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">84677ac1-176c-4c4f-a765-d1fcfa2a0b61</dc:identifier>
+        <dc:title>Golden Son</dc:title>
+        <dc:creator opf:file-as="Brown, Pierce" opf:role="aut">Pierce Brown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-01-05T22:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;With shades of &lt;i&gt;The Hunger Games, Ender's Game, &lt;/i&gt;and&lt;i&gt; Game of Thrones, &lt;/i&gt;debut author Pierce Brown's genre-defying epic &lt;i&gt;Red Rising&lt;/i&gt; hit the ground running and wasted no time becoming a sensation. &lt;i&gt;Golden Son&lt;/i&gt; continues the stunning saga of Darrow, a rebel forged by tragedy, battling to lead his oppressed people to freedom.&lt;/b&gt;&lt;br&gt;&lt;br&gt;As a Red, Darrow grew up working the mines deep beneath the surface of Mars, enduring backbreaking labor while dreaming of the better future he was building for his descendants. But the Society he faithfully served was built on lies. Darrow's kind have been betrayed and denied by their elitist masters, the Golds--and their only path to liberation is revolution. And so Darrow sacrifices himself in the name of the greater good for which Eo, his true love and inspiration, laid down her own life. He becomes a Gold, infiltrating their privileged realm so that he can destroy it from within.&lt;br&gt;  &lt;br&gt; A lamb among wolves in a cruel...</dc:description>
+        <dc:publisher>Random House Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780345539823</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:series" content="The Red Rising Saga"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2024-12-23T12:30:32.196695+00:00"/>
+        <meta name="calibre:title_sort" content="Golden Son"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formats&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#pages" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;int&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Pages&quot;, &quot;search_terms&quot;: [&quot;#pages&quot;], &quot;label&quot;: &quot;pages&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;number_format&quot;: &quot;{0:.1f}&quot;, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 23, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

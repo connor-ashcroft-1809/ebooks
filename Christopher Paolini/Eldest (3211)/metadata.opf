@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3211</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7f51bdbc-9933-40bd-89fc-510d876c083e</dc:identifier>
+        <dc:title>Eldest</dc:title>
+        <dc:creator opf:file-as="Paolini, Christopher" opf:role="aut">Christopher Paolini</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-26T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Darkness falls…despair abounds…evil reigns…Eragon and his dragon, Saphira, have just saved the rebel state from destruction by the mighty forces of King Galbatorix, cruel ruler of the Empire.  Now Eragon must travel to Ellesmera, land of the elves, for further training in the  skills of the Dragon Rider: magic and swordsmanship.  Soon he is on the journey of a lifetime, his eyes open to awe-inspring new places and people, his days filled with fresh adventure. But chaos and betrayal plague him at every turn, and nothing is what it seems. Before long, Eragon doesn’t know whom he can trust.Meanwhile, his cousin Roran must fight a new battle–one that might put Eragon in even graver danger.Will the king’s dark hand strangle all resistance? Eragon may not escape with even his life. . . .**Praise for *Eragon*:**“Unusual, powerful . . . fresh and fluid. An impressive start to a writing career that’s sure to flourish.” –*Booklist*, Starred“Christopher Paolini make[s] literary magic with his precocious debut.” –*People*“The new ‘It’ book of children’s lit.” –*U.S. News &amp; World Report*“An auspicious beginning to both career and series.” –*Publishers Weekly*A #1 New York Times BestsellerA #1 Publishers Weekly BestsellerA USA Today BestsellerA Wall Street Journal BestsellerA Book Sense Book of the YearA #1 Book Sense Selection*From the Hardcover edition.*</dc:description>
+        <dc:publisher>Laurel-Leaf Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780440238492</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Juvenile Fiction</dc:subject>
+        <dc:subject>Fantasy &amp; Magic</dc:subject>
+        <dc:subject>Children's Books - Young Adult Fiction</dc:subject>
+        <dc:subject>Children: Young Adult (Gr. 7-9)</dc:subject>
+        <dc:subject>Animals</dc:subject>
+        <dc:subject>Mythical</dc:subject>
+        <dc:subject>Science Fiction; Fantasy; Magic</dc:subject>
+        <dc:subject>Dragons</dc:subject>
+        <dc:subject>Youths' writings</dc:subject>
+        <dc:subject>Science Fiction; Fantasy; &amp; Magic</dc:subject>
+        <meta name="calibre:series" content="The Inheritance Cycle"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2024-12-23T13:38:40.243999+00:00"/>
+        <meta name="calibre:title_sort" content="Eldest"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formats&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#pages" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;int&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Pages&quot;, &quot;search_terms&quot;: [&quot;#pages&quot;], &quot;label&quot;: &quot;pages&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;number_format&quot;: &quot;{0:.1f}&quot;, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 23, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
