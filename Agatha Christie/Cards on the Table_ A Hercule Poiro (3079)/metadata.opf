@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3079</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0d2ab947-866b-4bf6-a5a2-b827fd6b0198</dc:identifier>
+        <dc:title>Cards on the Table: A Hercule Poirot Mystery</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-12-15T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Mr. Shaitana was famous as a flamboyant party host, but he was a man of whome everybody was a little afraid. So, when he boasted to Hercule Poirot that he considered murder and art form, the detective had some reservations about accepting a party invitation to view Shaitana's private collection. Indeed, what began as an absorbing evening of bridge was to turn into a more dangerous game altogether ...&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;“When you think it’s Colonel Mustard in the basement with the crescent wrench, you owe the fun to Dame Christie.” (William Dietrich, &lt;em&gt;New York Times&lt;/em&gt; bestselling author of the Ethan Gage Adventures )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“The finest murder story of her career….Mrs. Christie has never been more ingenious.” (Daily Mail (London) ) &lt;/p&gt;&lt;h3&gt;From the Back Cover&lt;/h3&gt;&lt;p&gt;Mr. Shaitana is famous as a flamboyant party host. Nevertheless, he is a man of whom everybody is a little afraid. So when he boasts to Hercule Poirot that he considers murder an art form, the detective has some reservations about accepting a party invitation to view Shaitana’s “private collection.”&lt;/p&gt;&lt;p&gt;Indeed, what begins as an absorbing evening of bridge is to turn into a more dangerous game altogether.…&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Harper Paperbacks</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B000FC10ZC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">0062073737</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B000FC10ZC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Adult</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <meta name="calibre:series" content="Hercule Poirot"/>
+        <meta name="calibre:series_index" content="13"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2024-12-19T16:47:30.791647+00:00"/>
+        <meta name="calibre:title_sort" content="Cards on the Table: A Hercule Poirot Mystery"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formats&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#pages" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;int&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Pages&quot;, &quot;search_terms&quot;: [&quot;#pages&quot;], &quot;label&quot;: &quot;pages&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;number_format&quot;: &quot;{0:.1f}&quot;, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 23, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

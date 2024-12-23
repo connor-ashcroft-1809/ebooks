@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3016</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dbd737c1-c52d-4f1d-85e0-18566aefdfeb</dc:identifier>
+        <dc:title>The Sittaford Mystery</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1931-01-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;In a remote house in the middle of Dartmoor, six shadowy figures huddle around a table for a seance. Tension rises as the spirits spell out a chilling message: "Captain Trevelyan . . . dead . . . murder."&lt;/p&gt;&lt;p&gt;Is this black magic or simply a macabre joke? The only way to be certain is to locate Captain Trevelyan. Unfortunately, his home is six miles away and, with snowdrifts blocking the roads, someone will have to make the journey on foot. . . .&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;"The Empress of the crime novel." Sunday Express"An excellent book to take away for a weekend reading." New York Times"You can't go wrong with this one, certainly the best of the always high-grade Christie items in quite some time." Books &lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;"The Empress of the crime novel." Sunday Express"An excellent book to take away for a weekend reading." New York Times"You can't go wrong with this one, certainly the best of the always high-grade Christie items in quite some time." Books &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781611736823</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B000FC13TA</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">hvxye09LmmUC</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B000FC13TA</dc:identifier>
+        <dc:identifier opf:scheme="FF">c/agatha-christie/sittaford-mystery</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">w/sittaford-mystery-agatha-christie/1100153727</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">10141759</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Mystery &amp; Detective</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2024-12-19T16:47:18.052624+00:00"/>
+        <meta name="calibre:title_sort" content="Sittaford Mystery, The"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formats&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#pages" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;int&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Pages&quot;, &quot;search_terms&quot;: [&quot;#pages&quot;], &quot;label&quot;: &quot;pages&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;number_format&quot;: &quot;{0:.1f}&quot;, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 23, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

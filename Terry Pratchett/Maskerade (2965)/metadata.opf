@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2965</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">52f7036a-50a7-4538-8d06-beac40cc5453</dc:identifier>
+        <dc:title>Maskerade</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-10-07T07:55:11+00:00</dc:date>
+        <dc:description>&lt;p&gt;The Ghost in the bone-white mask who haunts theAnkh-Morpork Opera House was always considered a benign presence -- some would even say lucky -- until he started killing people. The sudden rash of bizarre backstage deaths now threatens to mar the operatic debut of country girl Perdita X. (nee Agnes) Nitt, she of the ample body and ampler voice.&lt;/p&gt;&lt;p&gt;Perdita's expected to hide in the chorus and sing arias out loud while a more petitely presentable soprano mouths the notes. But at least it's an escape from scheming Nanny Ogg and old Granny Weatherwax back home, who want her to join their witchy ranks. &lt;/p&gt;&lt;p&gt;Once Granny sets her mind on something, however, it's difficult -- and often hazardous -- to dissuade her. And no opera-prowling phantom fiend is going to keep a pair of determined hags down on the farm after they've seen Ankh-Morpork.&lt;/p&gt;&lt;h3&gt;Amazon.com Review&lt;/h3&gt;&lt;p&gt;There are strange goings-on at the Opera House in Ankh-Morpork. A ghost in a white mask is murdering, well, quite a lot of people, and two witches (it really isn't wise to call them "meddling, interfering old baggages"), or perhaps three, take a hand in unraveling the mystery. Fans of the popular Discworld will be happy to see some old friends again in &lt;em&gt;Maskerade&lt;/em&gt;, the 18th novel in the series. &lt;em&gt;--Blaise Selby&lt;/em&gt;&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;"Consistently, inventively mad . . . wild and wonderful!" -- &lt;em&gt;-- &lt;/em&gt;Isaac Asimov's Science Fiction Magazine&lt;em /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;"Pratchett is fast, funny, and going places. Try him!" -- &lt;em&gt;-- Piers Anthony&lt;/em&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;"Simply the best humorous writer of the twentieth century." -- &lt;em&gt;-- &lt;/em&gt;Oxford Times&lt;em /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;"The funniest parodist working in the field today, period." -- &lt;em&gt;-- &lt;/em&gt;New York Review of Science Fiction&lt;em /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;"The hottest writer in fantasy today." -- &lt;em&gt;-- &lt;/em&gt;White Dwarf&lt;em /&gt;&lt;/p&gt;</dc:description>
+        <dc:publisher>HarperTorch</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061056918</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:series" content="Discworld"/>
+        <meta name="calibre:series_index" content="18"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2024-11-30T17:02:35+00:00"/>
+        <meta name="calibre:title_sort" content="Maskerade"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formats&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#pages" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;int&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Pages&quot;, &quot;search_terms&quot;: [&quot;#pages&quot;], &quot;label&quot;: &quot;pages&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;number_format&quot;: &quot;{0:.1f}&quot;, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 23, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

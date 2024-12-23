@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3005</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">559da602-2c9c-41f8-a868-1bac0141d329</dc:identifier>
+        <dc:title>While the Light Lasts: A Short Story</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-11-19T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Previously published in the print anthology &lt;em&gt;The Harlequin Tea Set and Other Stories&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;In the excruciating heat of the African sun, George Crozier is traveling with his new wife, Deidre. They have not been married long, and George is aware that his wife’s thoughts are with her first husband, who was killed in this part of Africa during the War. In this hauntingly beautiful tale, Deidre is forced to confront the reality of her circumstances: “While the light lasts I shall remember, and in the darkness I shall not forget.”&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;'The acknowledged queen of detective fiction.' Observer &lt;/p&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;"Isla Blair reads beautifully" Home and Country 12/97 "Isla Blair displays her usual confidence in narrating these stories with a combination of passion and serenity" Crime Time 1/11/97 &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Witness Impulse</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00CGZXSYW</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B00CGZXSYW</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery; Thriller &amp; Suspense</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>British Detectives</dc:subject>
+        <dc:subject>45 Minutes (22-32 Pages)</dc:subject>
+        <dc:subject>Literature &amp; Fiction</dc:subject>
+        <dc:subject>Traditional Detectives</dc:subject>
+        <meta name="calibre:series" content="Hercule Poirot"/>
+        <meta name="calibre:series_index" content="41"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2024-12-19T16:47:15.759269+00:00"/>
+        <meta name="calibre:title_sort" content="While the Light Lasts: A Short Story"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formats&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#pages" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;int&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Pages&quot;, &quot;search_terms&quot;: [&quot;#pages&quot;], &quot;label&quot;: &quot;pages&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;number_format&quot;: &quot;{0:.1f}&quot;, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 23, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

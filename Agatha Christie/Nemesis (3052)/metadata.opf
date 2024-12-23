@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3052</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c43c0178-9dae-4887-9ba8-14d3cd1fc8c2</dc:identifier>
+        <dc:title>Nemesis</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-12T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;In utter disbelief, Miss Marple read the letter addressed to her from the recently deceased Mr. Rafiel—an acquaintance she had met briefly on her travels. He had left instructions for her to investigate a crime after his death. The only problem was, he had failed to tell her who was involved or where and when the crime had been committed. It was most intriguing.&lt;/p&gt;&lt;p&gt;Soon she is faced with a new crime—the ultimate crime—murder. It seems someone is adamant that past evils remained buried. . . .&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;“Agatha Christie proves that if you really are good enough, you can break all the ‘rules’ and still come up with a winner.” (Anne Perry, New York Times bestselling author of the Thomas Pitt and William Monk series of Victorian mysteries )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“Miss Marple was an old lady now, knowing that a scent for evil was still, in the evening of her days, her peculiar gift.” (Times Literary Supplement (London) ) &lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;Agatha Christie is the most widely published author of all time and in any language, outsold only by the Bible and Shakespeare. Her books have sold over a billion copies in English and another billion in one hundred foreign countries. She is the author of eighty novels and short-story collections, nineteen plays, and six novels under the name Mary Westmacott. She died in 1976. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins Publishers</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B000FC1PM0</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780062073709</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0062073702</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">w/nemesis-agatha-christie/1100154354</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:series" content="Miss Marple"/>
+        <meta name="calibre:series_index" content="12"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2024-12-19T16:47:25.240645+00:00"/>
+        <meta name="calibre:title_sort" content="Nemesis"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formats&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#pages" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;int&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Pages&quot;, &quot;search_terms&quot;: [&quot;#pages&quot;], &quot;label&quot;: &quot;pages&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;number_format&quot;: &quot;{0:.1f}&quot;, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 23, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
