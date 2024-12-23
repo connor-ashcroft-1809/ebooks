@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3236</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c92f51ef-5aef-4ecd-b874-85d63c153e1d</dc:identifier>
+        <dc:title>The Three-Body Problem</dc:title>
+        <dc:creator opf:file-as="Liu, Cixin" opf:role="aut">Cixin Liu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-11-10T11:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;em&gt;Three-Body Problem &lt;/em&gt;is the first chance for English-speaking readers to experience this multiple award winning phenomenon from China’s most beloved science fiction author, Liu Cixin.&lt;/p&gt;&lt;p&gt;Set against the backdrop of China’s Cultural Revolution, a secret military project sends signals into space to establish contact with aliens. An alien civilization on the brink of destruction captures the signal and plans to invade Earth. Meanwhile, on Earth, different camps start forming, planning to either welcome the superior beings and help them take over a world seen as corrupt, or to fight against the invasion. The result is a science fiction masterpiece of enormous scope and vision.&lt;/p&gt;&lt;p&gt;At the publisher's request, this title is being sold without Digital Rights Management software (DRM) applied.&lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;CIXIN LIU is the most prolific and popular science fiction writer in the People’s Republic of China. Liu is an eight-time winner of the Galaxy Award (the Chinese Hugo) and a winner of the Nebula Award. Prior to becoming a writer, he worked as an engineer in a power plant in Yangquan, Shanxi.   &lt;/p&gt;&lt;p&gt;KEN LIU (translator) is a writer, lawyer, and computer programmer. His short story "The Paper Menagerie" was the first work of fiction ever to sweep the Nebula, Hugo, and World Fantasy Awards.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Tor Books</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00IQO403K</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781466853447</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B00IQO403K</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Literature &amp; Fiction</dc:subject>
+        <dc:subject>World Literature</dc:subject>
+        <dc:subject>Asian</dc:subject>
+        <dc:subject>Chinese</dc:subject>
+        <dc:subject>Science Fiction &amp; Fantasy</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <meta name="calibre:series" content="Remembrance of Earth's Past"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2024-12-23T14:46:18.214136+00:00"/>
+        <meta name="calibre:title_sort" content="Three-Body Problem, The"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formats&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#pages" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;int&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Pages&quot;, &quot;search_terms&quot;: [&quot;#pages&quot;], &quot;label&quot;: &quot;pages&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;number_format&quot;: &quot;{0:.1f}&quot;, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 23, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

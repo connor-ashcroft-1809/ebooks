@@ -97,3 +97,6 @@ This is a collection of book series from a variety of authors across different g
     - The Martian
     - Artemis
     - Project Hail Mary
+
+## Cixin Liu 
+- **Remembrance of Earth's Past** (The Three-Body Problem Series) 
